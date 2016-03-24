@@ -1,0 +1,47 @@
+body {
+  background: url("/home/up4all/Phura/_original.jpg");
+  background-attachment: ;
+  background-repeat: no-repeat;
+  background-position: fixed;
+  background: ;
+ 
+
+}
+ 
+
+h1 {
+  text-align: center;
+  font-size: 80px;
+  color: #990000;
+  margin: 0px 0 70px 0;
+  
+}
+
+h2 {
+  text-align: center;
+  font-size: 30px;
+  color: #990000;
+  margin: -50px 0 70px 0;
+}
+
+ul a {
+ 
+  text-align: center;
+  padding-right: 25px;
+  text-decoration: none;
+  list-style: none;
+  margin: none;
+}
+
+p {
+   
+   color: #990000;
+   text-align: center;
+   font-size: 30px;
+}
+
+
+
+
+
+
